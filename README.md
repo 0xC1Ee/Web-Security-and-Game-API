@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify and extend this README to provide more detailed information about your project, including installation instructions, usage examples, and additional features. Good luck with your project on GitHub! If you have any questions or need further assistance, don't hesitate to ask.
+
 
 # connect
 
