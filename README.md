@@ -1,10 +1,10 @@
 # discord programming & coders hub
 
-<a href="https://discord.gg/sByfX4tjg9"><img alt="Discord" src="https://img.shields.io/discord/676402832106192917?style=plastic"></a>
+<a href="https://discord.gg/sByfX4tjg9"><img alt="Discord" src="https://img.shields.io/discord/834988294496452608?style=plastic"></a>
 
  <a href="https://discord.gg/jdnUcb9"><img
                 alt="Discord"
-                src="https://img.shields.io/discord/676402832106192917?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
+                src="https://img.shields.io/discord/834988294496452608?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
                 
                 # Web Security and Game API
 
@@ -58,8 +58,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # connect
 
-<a href="https://discord.gg/jdnUcb9"><img alt="Discord" src="https://img.shields.io/discord/676402832106192917?style=plastic"></a>
+<a href="https://discord.gg/jdnUcb9"><img alt="Discord" src="https://img.shields.io/discord/834988294496452608?style=plastic"></a>
 
  <a href="https://discord.gg/sByfX4tjg9"><img
                 alt="Discord"
-                src="https://img.shields.io/discord/676402832106192917?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
+                src="https://img.shields.io/discord/834988294496452608?label=Discord&logo=discord&logoColor=ffffff&labelColor=ff69b4&color=blueviolet"></a>
